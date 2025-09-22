@@ -34,5 +34,5 @@ The goal of this project is to analyze and visualize:
 - Couples tend to spend more in certain types of restaurants  
 
 
-3. Open and run the Jupyter Notebook `zomato_analysis.ipynb`  
+3. Open and run the Jupyter Notebook - https://github.com/Rajnandini-0804/Restaurant-sales-data-Analysis-python/blob/main/Restaurant%20sales%20analysis%20project.ipynb  
 
